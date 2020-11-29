@@ -7,7 +7,7 @@
   * Exit strategy: pre decided hand signals
 * Phone
   * Use Signal \(the application\) and use disappearing messages during the protest
-  * Practice turning off your phone, which iw when it's most secure.
+  * Practice turning off your phone, which is when it's most secure.
   *  Practice initiating the panic/emergency/lock-down mode for your phone.
     * These modes will temporarily disable biometrics \(face/finger unlock\) from working.
   * Take photos and videos without unlocking your device.
