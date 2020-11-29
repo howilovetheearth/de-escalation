@@ -20,5 +20,5 @@ De-escalators are responsible for watching the emotional tone of the action.
 
 
 
-[https://docs.google.com/document/d/1-5V2ONRMZ20657lQwdeGRk\_y8wJH8PLPSnXtS7iFHhE/edit\#](https://docs.google.com/document/d/1-5V2ONRMZ20657lQwdeGRk_y8wJH8PLPSnXtS7iFHhE/edit#)
+
 
